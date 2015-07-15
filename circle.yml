@@ -22,4 +22,4 @@ machine:
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: https://someurl.com/hooks/circle
+    - url: http://54.148.211.150/circleci/be58d3f34a0b7f5ad7fb962e
